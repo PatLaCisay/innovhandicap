@@ -1,0 +1,16 @@
+
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Change text color for specific elements */
+h1, h4, p {
+    color: #000;
+}
+
+/* Override Bootstrap styles for specific components */
+.btn-primary {
+    background-color: rgb(181, 8, 8);
+    border-color: rgb(181, 8, 8);
+}
